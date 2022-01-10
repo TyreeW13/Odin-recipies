@@ -1,13 +1,12 @@
 .background,
 .main-header, #links{
     background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .main-header{
-    background-color: green;
     color: black;
     text-align: center;
     font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #links {
