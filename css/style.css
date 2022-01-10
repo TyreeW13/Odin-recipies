@@ -54,3 +54,9 @@
 
 /* ramen noodles style */
 /* This is an image below the one called #ramen */
+#ramen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
