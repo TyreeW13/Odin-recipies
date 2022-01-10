@@ -1,5 +1,6 @@
-.background{
-    background-color: aqua;
+.background,
+.main-header, #links{
+    background-color: green;
 }
 .main-header{
     background-color: green;
