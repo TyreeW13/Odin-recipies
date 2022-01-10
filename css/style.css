@@ -15,7 +15,7 @@
     font-size: 35px;
 }
 /* Jerk Chicken Style */
-/* This is an image below the one called #jerk*/
+/* This is an image below the one called #jerk */
 #jerk {
     display: block;
     margin-left: auto;
@@ -37,3 +37,20 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
+.header.three,.header.two{
+    color: red;
+    font-size: 25px;
+}
+
+.header.three{
+    color: red;
+    font-size: 25px;    
+}
+
+#item {
+    background-color: green;
+}
+
+/* ramen noodles style */
+/* This is an image below the one called #ramen */
