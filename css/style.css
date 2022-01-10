@@ -1,3 +1,6 @@
+.background{
+    background-color: aqua;
+}
 .main-header{
     background-color: green;
     color: black;
@@ -5,3 +8,9 @@
     font-size: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#links {
+    background-color: yellow;
+    font-size: 35px;
+}
+
