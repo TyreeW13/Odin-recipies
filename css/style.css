@@ -15,6 +15,13 @@
     font-size: 35px;
 }
 /* Jerk Chicken Style */
+/* This is an image below the one called #jerk*/
+#jerk {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 .main-header {
     background-color: green;
@@ -23,9 +30,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#jerk {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
+.main,
+.header, .un-list
+, .or-list, #item {
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
